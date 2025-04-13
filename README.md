@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This repository is deprecated and archived in favour of my [Docker_Caddy](https://github.com/seiferma/Docker_Caddy) repo. See variants of the build for replacement.
+
 # Docker_CaddyWithHe
 [![](https://github.com/seiferma/Docker_CaddyWithHe/actions/workflows/docker-deploy.yml/badge.svg?branch=main)](https://github.com/seiferma/Docker_CaddyWithHe/actions?query=branch%3Amain+)
 [![](https://img.shields.io/github/issues/seiferma/Docker_CaddyWithHe.svg)](https://github.com/seiferma/Docker_CaddyWithHe/issues)
